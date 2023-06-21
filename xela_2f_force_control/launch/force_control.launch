@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<launch>
+
+	<rosparam command="load" file="$(find xela_2f_force_control)/config/fc_config.yaml" ns="xela_2f_force_controller" />
+
+	<node name="xela_2f_force_controller" pkg="xela_2f_force_control" type="controller_node" output="screen"/>
+
+	<node name="xela_2f_force_setpoint" pkg="xela_2f_force_control" type="setpoint_generator_node" output="screen"/>
+
+</launch>

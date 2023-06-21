@@ -1,0 +1,4 @@
+std_msgs/Header header
+xela_2f_force_control/LoggerCommand logger_command
+---
+bool feedback

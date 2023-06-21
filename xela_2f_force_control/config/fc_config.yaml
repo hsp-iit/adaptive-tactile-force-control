@@ -1,0 +1,39 @@
+# controller
+control_frequency : 40
+control_strategy: "adaptive_proportional"
+control_gain : 0.0001
+
+# contact detection
+contact_threshold : 2.5
+contact_velocity: 0.015
+
+# estimator
+estimation_frequency: 197
+estimation_window: 100
+
+# filtering
+use_filter : true
+filter_cutoff : 100.0
+
+# home configuration
+reset_target : false
+force_home : 10.0
+speed_home: 0.01
+pos_home: 0.085
+
+# logging
+logger_path : ""
+
+# robotiq gripper configuration
+force : 10.0
+speed: 0.01
+
+# taxel maximums
+taxel_max_x: 1500.0
+taxel_max_y: 1500.0
+taxel_max_z: 3000.0
+
+# topics
+xela_sensor_topic : "/xela/sensors"
+gripper_status_topic : "/robotiq_2f_action_server/gripper_status"
+franka_state_topic : "/franka_state_controller/franka_states"
