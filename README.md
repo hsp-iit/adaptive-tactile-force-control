@@ -10,7 +10,7 @@
 </h4>
 
 <div align="center">
-  To appear in IEEE Robotics and Automation Letters, 2023
+  IEEE Robotics and Automation Letters, vol. 8, no. 9, pp. 5544-5551, Sep. 2023
 </div>
 
 <div align="center">
@@ -66,11 +66,11 @@ algorithm presented in the paper from the implementation of the ROS node.
 @ARTICLE{10187696,
   author={Piga, Nicola A. and Natale, Lorenzo},
   journal={IEEE Robotics and Automation Letters}, 
-  title={Adaptive Tactile Force Control in a Parallel Gripper with Low Positioning Resolution}, 
+  title={Adaptive Tactile Force Control in a Parallel Gripper With Low Positioning Resolution}, 
   year={2023},
-  volume={},
-  number={},
-  pages={1-8},
+  volume={8},
+  number={9},
+  pages={5544-5551},
   doi={10.1109/LRA.2023.3297061}}
 ```
 
