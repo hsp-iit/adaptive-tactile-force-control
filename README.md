@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <a href="https://ieeexplore.ieee.org/document/10187696"><b>Paper (early access)</b></a> |
+  <a href="https://ieeexplore.ieee.org/document/10187696"><b>Paper</b></a> |
   <a href="https://ieeexplore.ieee.org/ielx7/7083369/7339444/10187696/supp1-3297061.mp4?arnumber=10187696"><b>Video</b></a>
 </div>
 
