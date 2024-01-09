@@ -40,12 +40,12 @@
 - [franka-control](#how-to-install-franka-control)
 - [simple_pid](#how-to-install-simple-pid)
 
-:information_source: How to install franka control
+#### :information_source: How to install franka control
 ```console
 sudo apt install ros-<your_ros_distro>-franka-control
 ```
 
-:information_source: How to install simple pid
+#### :information_source: How to install simple pid
 ```console
 pip install simple_pid
 ```
