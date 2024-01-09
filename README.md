@@ -37,8 +37,8 @@
 - [hsp-panda/xela-server-ros](https://github.com/hsp-panda/xela-server-ros)
 - [hsp-panda/panda_moveit_config](https://github.com/hsp-panda/panda_moveit_config)
 - [hsp-panda/robotiq](https://github.com/hsp-panda/robotiq)
-- [franka-control](#how-to-install-franka-control)
-- [simple_pid](#how-to-install-simple-pid)
+- [franka-control](#information_source-how-to-install-franka-control)
+- [simple_pid](#information_source-how-to-install-simple-pid)
 
 #### :information_source: How to install franka control
 ```console
